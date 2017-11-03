@@ -1,8 +1,23 @@
 <html>
  <head>
-  <title>Lauren Casillas</title>
+  <title>Goldendoodles Are Beautiful Creatures</title>
  </head>
+ 
  <body>
-  <p>Hello World</p>
+ 
+ <p>
+ <img src="https://tcllamas.files.wordpress.com/2014/10/bayley_donna-parkman_2.jpg" alt="Yummy" width="30%">
+ </p>
+
+  <table>
+  <tbody><tr><th>Redeeming Qualities</th>        <th>Verified</th></tr>
+  <tr><td>Perfection</td>       <td class="trcell">True</td></tr>
+  <tr><td>Cuddle Factor</td>     <td class="trcell">True</td></tr>
+  <tr><td>Just Smart Enough</td>  <td class="trcell">True</td></tr>
+  <tr><td>Ice Cream</td>      <td class="uicell">(Under investigation)</td></tr>
+  <tr><td>Energy Neutral</td> <td class="facell">False</td></tr>
+</tbody></table>
+
+
  </body>
 </html>
